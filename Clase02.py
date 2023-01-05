@@ -58,11 +58,18 @@ name = 'José Pérez'
 email = 'joseperez@gmail.com'
 telephone = '1122223333'
 age = 38
+ageTwo = '40'
+
+print(int(telephone) + 10)
+
+age = str(38)
 
 print(name)
 print(email)
 print(telephone)
 print(age)
 print('')
-print('Me llamo ' + name + ' mi email es ' + email + ' y mi número de teléfono es ' + telephone + '. Tengo ' + str(age) + 'años.')
+print('Me llamo ' + name + ' mi email es ' + email + ' y mi número de teléfono es ' + telephone + '. Tengo ' + age + ' años.')
+
+
 
