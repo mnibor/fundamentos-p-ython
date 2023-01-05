@@ -22,6 +22,7 @@ print('LA SUMA ES:', total)
 #                   formato snake case: my_first_number, my_second_number
 #                   formato train case: My_First_Number, My_Second_Number
 # 7º - Constantes: se definen con el formato snake case y en mayúsculas todas las palabras. Su valor no debe ser modificado en tiempo de ejecución.
+# 8º - NO EXPLICADO EN EL VIDEO. Debe tratarse, que el nombre de las variables, sean lo más descriptivas posible del dato que van a alojar. Por ejemplo si vamos a almacentar en una variable, el nombre de una fruta, lo más lógico es nombrar a esa variable como "fruit". Esto se hace para cuando tenemos que revisar un código, mucho tiempo después de que se escribió (suele suceder), entendamos a simple vista aún más el tipo de dato que maneja esa variable. Así también se aconseja evitar llamar a las variables con términos inteligibles, como X1, A1, X100. Las variables cuyos nombres están formados por una sola letra del alfabeto, se suelen usar para almacenar "contadores auxiliares" que no tienen peso en el código del programa. Este tema lo veremos mucho más adelante con más detenimiento.
 
 MY_VALUE = 6.33
 
