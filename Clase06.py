@@ -24,5 +24,7 @@ if value:
 else:
     print('Valor falso')
 
+value = True
+
 print('Valor verdadero') if value else print('Valor falso')
 
